@@ -17,7 +17,7 @@ pip install -r requirements.txt
 
 ## Running the Streamlit App:
 ### To launch the Streamlit dashboard:
-streamlit run app.py
+streamlit run bike_sharing_dashboard.py
 
 ### How to Use:
 Open Proyek_Analisis_Data_Syafika_Zalfanissa.ipynb for analysis.
